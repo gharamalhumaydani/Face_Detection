@@ -16,3 +16,5 @@ Stup 2:
 
 You need to download the trained classifier XML file 
 (haarcascade_frontalface_default.xml),  and put it in the same folder with my python file.
+
+Stup 3:
