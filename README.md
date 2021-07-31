@@ -4,7 +4,7 @@ In this project, I will use OpenCV library in Python to apply face detection in 
 
 Stup 1 :
 
-First of all make sure you have OpenCV installed. You can install it using pip:
+First of all make sure you have OpenCV installed. You can install it using pip , in cmd :
 
 * pip install opencv-python
 
@@ -19,9 +19,15 @@ You need to download the trained classifier XML file
 
 Stup 3:
 
+Run the code in a program Pycharm
+
+
 ![2021-07-31 (3)](https://user-images.githubusercontent.com/86461558/127751438-435a8376-e796-4916-8bd1-bc29d6c184a8.png)
 
 Stup 4:
 
 This is the Result on Run the code
+
+![2021-07-31 (4)](https://user-images.githubusercontent.com/86461558/127751475-e67b86cc-51fa-4c5d-8eb0-1cfb10dec258.png)
+
 
